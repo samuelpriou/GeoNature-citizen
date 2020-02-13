@@ -63,6 +63,7 @@ MEDIA_FOLDER = 'media'
     MAIL_PORT = 493   # mandatory SSL port
     MAIL_AUTH_LOGIN = 'smtpd/relay host username'
     MAIL_AUTH_PASSWD = 'smtpd/relay host password'
+    MAIL_FROM = 'contact@geonature-citizen.fr'
 
 
 # API flasgger main config
